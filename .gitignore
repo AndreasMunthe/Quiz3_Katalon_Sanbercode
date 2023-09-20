@@ -32,6 +32,8 @@ build
 .classpath
 .project
 
+.meta
+
 ### macOS specific
 *.DS_Store
 .AppleDouble
