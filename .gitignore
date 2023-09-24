@@ -1,5 +1,4 @@
-#to ignore any of your .prj / project file changes
-*.prj
+
 
 .gradle
 
@@ -76,3 +75,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
